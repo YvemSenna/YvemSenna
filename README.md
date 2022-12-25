@@ -45,7 +45,7 @@
  ##
  
  
-![Snake animation](https://github.com/YvemSenna/YvemSenna/blob/output/github-contribution-grid-snake.svg)
+
   
 
 
