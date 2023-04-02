@@ -3,8 +3,8 @@
 
 
 
-- 👩🏽‍🚀  Hoje estou trabalhando com BackEnd (C# .NET)
-- 📚 Estudando Learne Machine 👨🏻‍🎓
+- 👩🏽‍🚀 Desenvolvedor BackEnd (C# .NET)
+- 📚 Especializando em Machine Learning (Redes Neurais - Python) 👨🏻‍🎓
 - 📨 Entre em contato: yvem.senna@roostertecnologia.com.br
 - 🙋🏻‍♂️ Pronomes: Ele/Dele
 
