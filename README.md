@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando em soluções tecnológicas sustentáveis na <strong>Collect Machine</strong>, transformando resíduos em recursos valiosos para um planeta mais verde.
   
-- 🌱 Estou explorando técnicas avançadas de <strong>Machine Learning</strong>.
+- 🌱 Explorando técnicas avançadas de <strong>Machine Learning</strong>.
   
 - 👯 Busco colaborar em projetos de <strong>Sustentabilidade com IA</strong> e tecnologias de impacto ambiental que tornem a Terra (e além) um lugar melhor.
 
