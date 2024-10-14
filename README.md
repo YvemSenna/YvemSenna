@@ -1,4 +1,4 @@
-### Yvem Senna — Head de Tecnologia, Colecionador de Inovações e Solucionador Intergaláctico de Problemas 
+### Head de Tecnologia, Colecionador de Inovações e Solucionador Intergaláctico de Problemas 
 
 - 🔭 Atualmente estou trabalhando em soluções tecnológicas sustentáveis na <strong>Collect Machine</strong>, transformando resíduos em recursos valiosos para um planeta mais verde.
   
